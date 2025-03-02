@@ -4,13 +4,13 @@ Bu proje, League of Legends (LoL) karakterlerini tanıtan ve oyun hakkında bilg
 
 ## 📌 Proje İçeriği
 
-- **Başlıklar (<h1> - <h6>)**: Farklı seviyelerde başlıklar kullanılarak içeriğin düzenlenmesi sağlanmıştır.
-- **Paragraflar (<p>)**: LoL hakkında genel bilgi ve şampiyonlar hakkında açıklamalar eklenmiştir.
-- **Resimler (<img>)**: LoL karakterlerine ait görseller sayfada yer almaktadır.
-- **Listeler (<ul>, <ol>, <li>)**: Pantheon karakterinin yetenekleri ve şampiyon rolleri listelenmiştir.
-- **Tablo (<table>, <tr>, <td>, <th>)**: Öne çıkan şampiyonlar ve rolleri tablo şeklinde sunulmuştur.
-- **Anlamsal Etiketler (<header>, <footer>, <section>, <nav>)**: Sayfa düzenini iyileştirmek için kullanılmıştır.
-- **Linkler (<a>)**: Sayfanın farklı bölümlerine kolayca geçiş yapılabilmesi için navigasyon menüsü eklenmiştir.
+- **Başlıklar (`<h1> - <h6>`)**: Farklı seviyelerde başlıklar kullanılarak içeriğin düzenlenmesi sağlanmıştır.
+- **Paragraflar (`<p>`)**: LoL hakkında genel bilgi ve şampiyonlar hakkında açıklamalar eklenmiştir.
+- **Resimler (`<img>`)**: LoL karakterlerine ait görseller sayfada yer almaktadır.
+- **Listeler (`<ul>`, `<ol>`, `<li>`)**: Pantheon karakterinin yetenekleri ve şampiyon rolleri listelenmiştir.
+- **Tablo (`<table>`, `<tr>`, `<td>`, `<th>`)**: Öne çıkan şampiyonlar ve rolleri tablo şeklinde sunulmuştur.
+- **Anlamsal Etiketler (`<header>`, `<footer>`, `<section>`, `<nav>`)**: Sayfa düzenini iyileştirmek için kullanılmıştır.
+- **Linkler (`<a>`)**: Sayfanın farklı bölümlerine kolayca geçiş yapılabilmesi için navigasyon menüsü eklenmiştir.
 
 ## 📜 Kullanılan HTML Etiketleri
 
@@ -22,7 +22,9 @@ Bu proje, League of Legends (LoL) karakterlerini tanıtan ve oyun hakkında bilg
 - `<table>`, `<tr>`, `<td>`, `<th>`: Tablolar
 - `<header>`, `<footer>`, `<section>`, `<nav>`: HTML etiketleri
 
-📁 Dosya yapısı 
+## 📂 Dosya Yapısı
+
+
 ├── LoL.html # Ana HTML dosyası ├── readme.md # Proje açıklama dosyası ├── img/ # Karakter resimleri 
 
 
